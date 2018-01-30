@@ -8,6 +8,7 @@ public class MyController {
     }
 
     public Account getAccount() {
+    	//Comment for DEV release
         return account;
     }
 
