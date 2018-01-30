@@ -8,7 +8,9 @@ public class MyController {
     }
 
     public Account getAccount() {
-    	//Comment for DEV release
+
+    	//Commenting for QA branch
+
         return account;
     }
 
